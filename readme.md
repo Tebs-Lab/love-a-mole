@@ -20,5 +20,5 @@ I  also used this as an opprotunity to use one new-to-me (at the time) feature f
 
 ## Running The Game
 
-Clone, then simply open whack-a-mole.html in a modern browser. IE8 doesn't count, Lynx is right out. I recommend playing one round before diving into the code. You can also play the game on [github pages](http://teb311.github.io/love-a-mole/);
+Clone, then simply open whack-a-mole.html in a modern browser. IE8 doesn't count, Lynx is right out. I recommend playing one round before diving into the code. You can also play the game on [github pages](http://Tebs-Lab.github.io/love-a-mole/);
 
